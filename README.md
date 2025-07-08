@@ -7,7 +7,7 @@ Intermediate structures and train-val-test data: https://zenodo.org/records/1583
 Saved model checkpoint: ./Perovs-IAP_finetuned_bulk+defect+surface_2025_PES
 
 # Installation and usage
-• Follow example_usage.ipynb for installation and test usage. For further details, visit the original MatGL documentation: https://matgl.ai. Github: https://github.com/materialsvirtuallab/matgl
-• For GPU-enabled fine-tuning use the ./fine-tune_Perovs-IAP.py script. Use the corresponding data collected from Zenodo. 
+• Follow example_usage.ipynb for installation and test usage. For further details, visit the original MatGL documentation: https://matgl.ai. Github: https://github.com/materialsvirtuallab/matgl  <br>
+• For GPU-enabled fine-tuning use the ./fine-tune_Perovs-IAP.py script. Use the corresponding data collected from Zenodo.  <br> 
 • The relaxed structures used in the three test cases have been included inside ./Structures_test_cases directory.
 
