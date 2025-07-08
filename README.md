@@ -1,5 +1,5 @@
 # Project Description
-This repository contains a fine-tuned M3GNet IAP for halide perovskites (HaPs), which is generalizable across bulk alloys, defects, impurities, and surfaces. The model is fine-tuned on a large-scale in-house DFT dataset from Mannodi group, with energies, forces, and stresses, enabling accurate predictions and geometry optimization across diverse structural motifs. It enables efficient exploration of the perovskite potential energy surface for energy prediction, defect screening, and surface relaxation. Pretrained model files and datasets are included for easy deployment and fine-tuning.
+This repository contains a fine-tuned M3GNet IAP for halide perovskites (HaPs), which is generalizable across bulk alloys, defects, impurities, and surfaces. The model is fine-tuned on a large-scale in-house DFT dataset from Mannodi group, with energies, forces, and stresses, enabling accurate predictions and geometry optimization across diverse structural motifs. It enables efficient exploration of the perovskite potential energy surface for energy prediction, bulk alloy screening, defect screening, and surface reconstructions. Pretrained model checkpoint and datasets are included for easy deployment and fine-tuning.
 
  
 # Data availability
