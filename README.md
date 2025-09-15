@@ -4,7 +4,9 @@ This repository contains a fine-tuned M3GNet-IAP for halide perovskites (HaPs), 
  
 # Data availability
 Intermediate structures and train-val-test data: https://zenodo.org/records/15832377  <br>
-Saved model checkpoint: ./Perovs-IAP_finetuned_bulk+defect+surface_2025_PES
+Saved model checkpoints: 
+(i) ./Perovs-IAP_finetuned_bulk+defect+surface_2025_PES (trained on bulk+defects+surfaces)
+(ii) ./Perovs-IAP_bulk+defect (trained on bulk+defects)
 
 # Installation and usage
 • Follow example_usage.ipynb for installation and test usage. For further details, visit the original MatGL documentation: https://matgl.ai. Github: https://github.com/materialsvirtuallab/matgl  <br>
