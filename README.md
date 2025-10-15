@@ -3,7 +3,7 @@ This repository contains a fine-tuned M3GNet-IAP for halide perovskites (HaPs), 
 
  
 # Data availability
-Intermediate structures and train-val-test data: [https://zenodo.org/records/15832377](https://zenodo.org/records/17363611)  <br>
+Intermediate structures and train-val-test data:  https://zenodo.org/records/17363611  <br>
 Saved model checkpoints: 
 (i) ./Perovs-IAP_finetuned_bulk+defect+surface_2025_PES (trained on bulk+defects+surfaces)
 (ii) ./Perovs-IAP_bulk+defect (trained on bulk+defects)
