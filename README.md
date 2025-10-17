@@ -11,7 +11,7 @@ Additional models for comparisons:
 (ii)./Additional_fine-tuned_IAPs/Perovskites_2025_PES_bulk+defects (trained on bulk+defect ~10,000 structures) <br>
 (iii) ./Additional_fine-tuned_IAPs/Perovskites_2025_PES_Initial_dataset (trained on the whole dataset without any sampling ~37,200 structures) <br>
 
-The model checkpoint saved in ./Auxiliary_model_Perovs_2025 is purely for comparison against "Perovs-IAP_finetuned_bulk+defect+surface_2025_PES" with the former trained on a wider force and stress window. We do not recommend for near-equilibrium energy predictions or relaxations.
+The model checkpoint saved in ./Auxiliary_model_Perovs_2025 is purely for comparison against "Perovs-IAP_finetuned_bulk+defect+surface_2025_PES" with the former trained on a wider force and stress window. 
 
 
 # Installation and usage
