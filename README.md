@@ -9,6 +9,8 @@ Saved model checkpoints: <br>
 (ii)./Additional_fine-tuned_IAPs/Perovskites_2025_PES_bulk+defects (trained on bulk+defect ~10,000 structures) <br>
 (iii) ./Additional_fine-tuned_IAPs/Perovskites_2025_PES_Initial_dataset (trained on the whole dataset without any sampling ~37,200 structures) <br>
 
+The model checkpoint saved in ./Auxiliary_model_Perovs_2025 is purely for comparison against "Perovs-IAP_finetuned_bulk+defect+surface_2025_PES" with the former trained on a wider force and stress window.
+
 
 # Installation and usage
 • Follow example_usage.ipynb for installation and test usage. For further details, visit the original MatGL documentation: https://matgl.ai. Github: https://github.com/materialsvirtuallab/matgl  <br>
