@@ -9,7 +9,7 @@ Saved model checkpoints: <br>
 
 Additional models for comparisons: <br>
 (ii)./Additional_fine-tuned_IAPs/Perovskites_2025_PES_bulk+defects (trained on bulk+defect ~10,000 structures) <br>
-(iii) ./Additional_fine-tuned_IAPs/Perovskites_2025_PES_Initial_dataset (trained on the whole dataset without any sampling ~37,200 structures)(NOTE - Better for new phase explorations and decomposition pathways beyond ABX3!) <br>
+(iii) ./Additional_fine-tuned_IAPs/Perovskites_2025_PES_Initial_dataset (trained on the whole dataset without any sampling ~37,200 structures) <br>
 (iv) ./Additional_fine-tuned_IAPs/MatPES_2025_fine-tune (Fine-tuned models using same hyperparameters as of Perovs-IAP starting from the MatPES-2025.1 (PBE and r2SCAN) checkpoints respectively) <br>
 
 The model checkpoint saved in ./Auxiliary_model_Perovs_2025 is purely for comparison against "Perovs-IAP_finetuned_bulk+defect+surface_2025_PES" with the former trained on a wider force and stress window. 
